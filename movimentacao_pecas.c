@@ -3,6 +3,7 @@
 int main(){
     int bispo = 0;
     int rainha = 0;
+    printf("** XADREZ **\n");
     //Movimentação torre, 5 casas para a direita
     printf("** TORRE **\n");
     for(int i = 0; i < 5; i++){
